@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 - 🌱 I love working with **React js**
 
-- 👨‍💻 All of my projects are available at [https://www.tazwar.me/#portfolio](https://www.tazwar.me/#portfolio)
+- 👨‍💻 All of my projects are available at [https://www.taufiq.me/#portfolio](https://www.taufiq.me/#portfolio)
 
 
 - 📫 How to reach me **taufiqulislam.official@gmail.com
 **
 
-- 📄 Know about my experiences [https://www.tazwar.me/](https://www.tazwar.me/)
+- 📄 Know about my experiences [https://www.taufiq.me/](https://www.taufiq.me/)
 
 
 

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Taufiqul7756/Taufiqul7756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Tazwar</h1>
+<h1 align="center">Hi 👋, I'm TaufiqUl Islam</h1>
 <h3 align="center">A passionate Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazwar9t62&label=Profile%20views&color=0e75b6&style=flat"
     alt="tazwar9t62" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=tazwar9t62" alt="tazwar9t62" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=Taufiqul7756" alt="Taufiqul7756" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tazwar_96" target="blank"><img
       src="https://img.shields.io/twitter/follow/tazwar9t62?logo=twitter&style=for-the-badge" alt="tazwar_96" /></a> </p>
@@ -33,7 +31,8 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://www.tazwar.me/#portfolio](https://www.tazwar.me/#portfolio)
 
 
-- 📫 How to reach me **tazwar9t6@protonmail.com**
+- 📫 How to reach me **taufiqulislam.official@gmail.com
+**
 
 - 📄 Know about my experiences [https://www.tazwar.me/](https://www.tazwar.me/)
 
@@ -119,4 +118,4 @@ Here are some ideas to get you started:
     src="https://github-readme-stats.vercel.app/api?username=tazwar9t62&show_icons=true&theme=dark&locale=en"
     alt="tazwar9t62" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tazwar9t62&" alt="tazwar9t62" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taufiqul7756&" alt="Taufiqul7756" /></p>

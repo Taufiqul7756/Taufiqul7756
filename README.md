@@ -42,15 +42,15 @@ Here are some ideas to get you started:
 <p align="left">
   <a href="https://dev.to/tazwar9t6" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tazwar9t62" height="30" width="40" /></a>
-  <a href="https://twitter.com/tazwar_96" target="blank"><img align="center"
+  <a href="https://twitter.com/taufiq7756" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tazwar_96" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tazwar9t6" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/asmtawfiq/" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tazwar9t6" height="30" width="40" /></a>
-  <a href="https://fb.com/tazwar96" target="blank"><img align="center"
+  <a href="https://www.facebook.com/tawfiq.asm" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tazwar96" height="30" width="40" /></a>
-  <a href="https://instagram.com/tazwar_96" target="blank"><img align="center"
+  <a href="https://www.instagram.com/asm.tawfiq/?hl=en" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tazwar_96" height="30" width="40" /></a>
-  <a href="https://medium.com/@mtazwar9t6" target="blank"><img align="center"
+  <a href="https://www.hackerrank.com/taufiqul15_7756" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mtazwar9t6" height="30" width="40" /></a>
 </p>
 

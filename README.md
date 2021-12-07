@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazwar9t62&label=Profile%20views&color=0e75b6&style=flat"
-    alt="tazwar9t62" /> </p>
+    alt="taufiq7756" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=Taufiqul7756" alt="Taufiqul7756" /></a> </p>

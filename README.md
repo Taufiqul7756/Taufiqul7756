@@ -115,7 +115,7 @@ Here are some ideas to get you started:
     alt="Taufiqul7756" /></p>
 
 <p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=tazwar9t62&show_icons=true&theme=dark&locale=en"
-    alt="tazwar9t62" /></p>
+    src="https://github-readme-stats.vercel.app/api?username=Taufiqul7756&show_icons=true&theme=dark&locale=en"
+    alt="Taufiqul7756" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taufiqul7756&" alt="Taufiqul7756" /></p>

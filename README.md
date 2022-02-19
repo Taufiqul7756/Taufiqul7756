@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/tazwar9t6" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" color="red" alt="tazwar9t62" height="30" width="40" /></a>
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tazwar9t62" height="30" width="40" /></a>
   <a href="https://twitter.com/taufiq7756" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tazwar_96" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/asmtawfiq/" target="blank"><img align="center"
@@ -111,8 +111,8 @@ Here are some ideas to get you started:
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=tazwar9t62&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="tazwar9t62" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Taufiqul7756&show_icons=true&theme=dark&locale=en&layout=compact"
+    alt="Taufiqul7756" /></p>
 
 <p>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=tazwar9t62&show_icons=true&theme=dark&locale=en"

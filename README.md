@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Taufiqul Islam</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tazwar9t62&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Taufiqul7756&label=Profile%20views&color=0e75b6&style=flat"
     alt="taufiq7756" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img

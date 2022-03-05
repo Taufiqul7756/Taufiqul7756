@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/tazwar9t6" target="blank"><img align="center"
+  <a href="https://dev.to/taufiq7756" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tazwar9t62" height="30" width="40" /></a>
   <a href="https://twitter.com/taufiq7756" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tazwar_96" height="30" width="40" /></a>
@@ -114,8 +114,8 @@ Here are some ideas to get you started:
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Taufiqul7756&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="Taufiqul7756" /></p>
 
-<p>&nbsp;<img align="center"
+<!-- <p>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=Taufiqul7756&show_icons=true&theme=dark&locale=en"
-    alt="Taufiqul7756" /></p>
+    alt="Taufiqul7756" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taufiqul7756&" alt="Taufiqul7756" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taufiqul7756&" alt="Taufiqul7756" /></p> -->

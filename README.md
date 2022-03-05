@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **taufiqulislam.official@gmail.com
 **
 
-- 📄 Know about my experiences [https://www.taufiq.me/](https://www.taufiq.me/)
+- 📄 Know about my experiences [https://www.taufiq.me/](https://portfolio-taufiq.netlify.app/)
 
 
 

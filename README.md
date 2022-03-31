@@ -26,11 +26,6 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/taufiq7756" target="blank"><img
       src="https://img.shields.io/twitter/follow/tazwar9t62?logo=twitter&style=for-the-badge" alt="tazwar_96" /></a> </p> -->
 
-- 🌱 I love working with **React js**
-
-- 👨‍💻 All of my projects are available at [https://www.taufiq.me/#portfolio](https://www.taufiq.me/#portfolio)
-
-
 - 📫 How to reach me **taufiqulislam.official@gmail.com
 **
 

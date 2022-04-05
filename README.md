@@ -105,9 +105,9 @@ Here are some ideas to get you started:
       alt="webpack" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
  -->
-<p><img align="left"
+<!-- <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Taufiqul7756&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="Taufiqul7756" /></p>
+    alt="Taufiqul7756" /></p> -->
 
 <!-- <p>&nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=Taufiqul7756&show_icons=true&theme=dark&locale=en"

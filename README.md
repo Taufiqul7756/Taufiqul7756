@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: taufiqulislam.official@gmail.com
 
-- 📄 Know about my experiences:- [Portfolio](https://portfolio-taufiq.netlify.app/)
+<!-- - 📄 Know about my experiences:- [Portfolio](https://portfolio-taufiq.netlify.app/) -->
 
 
 

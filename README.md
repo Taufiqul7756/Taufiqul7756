@@ -72,9 +72,7 @@ Here are some ideas to get you started:
       height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
       width="40" height="40" /> </a> <a href="https://ionicframework.com" target="_blank"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" /> </a>  </a> <a href="https://laravel.com/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel"
-      width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" /> </a>  </a> <a href="https://laravel.com/" target="_blank"> <a href="https://www.mongodb.com/" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
       width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"

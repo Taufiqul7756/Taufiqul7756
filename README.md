@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <h1 align="center">  Taufiqul Islam</h1>
 <h3 align="center"> SOFTWARE ENGINEER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Taufiqul7756&label=Profile%20views&color=0e75b6&style=flat"
-    alt="taufiq7756" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taufiqul7756&label=Profile%20views&color=0e75b6&style=flat"
+    alt="taufiq7756" /> </p> -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=Taufiqul7756" alt="Taufiqul7756" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/taufiq7756" target="blank"><img
-      src="https://img.shields.io/twitter/follow/tazwar9t62?logo=twitter&style=for-the-badge" alt="tazwar_96" /></a> </p> -->
+      src="https://img.shields.io/twitter/follow/tazwar9t62?logo=twitter&style=for-the-badge" alt="tazwar_96" /></a> </p>
 
 - 📫 How to reach me:: taufiqulislam.official@gmail.com
 

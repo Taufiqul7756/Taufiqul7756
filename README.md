@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taufiqul7756&label=Profile%20views&color=0e75b6&style=flat"
     alt="taufiq7756" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=Taufiqul7756" alt="Taufiqul7756" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/taufiq7756" target="blank"><img
-      src="https://img.shields.io/twitter/follow/tazwar9t62?logo=twitter&style=for-the-badge" alt="tazwar_96" /></a> </p>
+      src="https://img.shields.io/twitter/follow/tazwar9t62?logo=twitter&style=for-the-badge" alt="tazwar_96" /></a> </p> -->
 
 - 📫 How to reach me:: taufiqulislam.official@gmail.com
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mtazwar9t6" height="30" width="40" /></a>
 </p>
 
-<!-- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"
@@ -101,7 +101,6 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
       alt="webpack" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
- -->
 <!-- <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Taufiqul7756&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="Taufiqul7756" /></p> -->

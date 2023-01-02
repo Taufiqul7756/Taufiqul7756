@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">  Taufiqul Islam</h1>
 <h3 align="center"> SOFTWARE ENGINEER</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taufiqul7756&label=Profile%20views&color=0e75b6&style=flat"
-    alt="taufiq7756" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Taufiqul7756&label=Profile%20views&color=0e75b6&style=flat"
+    alt="taufiq7756" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=Taufiqul7756" alt="Taufiqul7756" /></a> </p>

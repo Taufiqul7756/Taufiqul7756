@@ -1,3 +1,9 @@
+<p>
+  <samp>
+    Hello, I'm <a href="https://www.linkedin.com/in/taufiqul7756/">Taufiqul Islam</a> . Interested in learning and exploring more about Full Stack Web Engineering.
+  </samp>
+</p>
+
 <div align="center"> 
   
   ![Visitors](https://gpvc.arturio.dev/Taufiqul7756)

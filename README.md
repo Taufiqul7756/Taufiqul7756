@@ -68,7 +68,7 @@
       </a>
       <br>Kotlin&nbsp;
     </td> -->
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="./images/html_icon.svg" width="48" height="48" alt="html" />
       </a>
@@ -95,14 +95,14 @@
   </tr>
 
   
-  <tr>
+  <tr> -->
 <!--     <td align="center" width="96">
       <a href="https://developer.android.com/studio">
         <img src="./images/android_studio_icon.svg" width="48" height="48" alt="android studio" />
       </a>
       <br>Android Studio&nbsp;
     </td> -->
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://code.visualstudio.com/">
         <img src="./images/visual_studio_code_icon.svg" width="48" height="48" alt="visual studio code" />
       </a>
@@ -151,7 +151,7 @@
       <br>GitLab&nbsp;
     </td>
   </tr>
-</table>
+</table> -->
 
 
 

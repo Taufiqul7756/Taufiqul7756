@@ -1,6 +1,6 @@
 <p>
   <samp>
-                   Hello, I'm <a href="https://www.linkedin.com/in/taufiqul7756/">Taufiqul Islam</a> . Software Engineer at Sheraspace Ltd.
+                   Hello, I'm <a href="https://www.linkedin.com/in/taufiqul7756/">Taufiqul Islam</a> . Software Engineer at Tech Analytica Ltd.
   </samp>
 </p>
 

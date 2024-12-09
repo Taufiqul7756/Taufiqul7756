@@ -30,14 +30,31 @@
 
 > Tools, languages, and other things that I like to work with.
 
+
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40"  alt="express logo"  />       
+  <img width="12" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" style="background-color: gray; padding: 5px; border-radius: 5px;"  />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  /> 
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+          
+          
+</div>
+
+
 <table>
   <tr>
-<!--     <td align="center" width="96">
-      <a href="https://www.cprogramming.com/">
-        <img src="./images/c_icon.svg" width="48" height="48" alt="c" />
-      </a>
-      <br>C&nbsp;
-    </td> -->
 <!--     <td align="center" width="96">
       <a href="https://isocpp.org/std/the-standard/">
         <img src="./images/cpp_icon.svg" width="48" height="48" alt="c" />
@@ -89,19 +106,20 @@
   </tr>
 
   
-  <tr> -->
+  <tr>
 <!--     <td align="center" width="96">
       <a href="https://developer.android.com/studio">
         <img src="./images/android_studio_icon.svg" width="48" height="48" alt="android studio" />
       </a>
       <br>Android Studio&nbsp;
     </td> -->
-<!--     <td align="center" width="96">
+<!--    <td align="center" width="96">
       <a href="https://code.visualstudio.com/">
         <img src="./images/visual_studio_code_icon.svg" width="48" height="48" alt="visual studio code" />
       </a>
       <br>VS Code&nbsp;
-    </td>
+    </td> -->
+<!-- 
     <td align="center" width="96">
       <a href="https://www.postman.com/">
         <img src="./images/postman_icon.svg" width="48" height="48" alt="postman" />
@@ -151,4 +169,15 @@
 
 
 ## ☕ Connect with me! 
-[<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/taufiqul7756/)
+<div align="left">
+<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+<a href="https://www.linkedin.com/in/taufiqul7756/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+</div>
+
+
+
